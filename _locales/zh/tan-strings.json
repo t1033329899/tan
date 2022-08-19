@@ -1,0 +1,12 @@
+{
+  "makecode_test.Gesture.facedown|block": "上",
+  "makecode_test.Gesture.faceup|block": "下",
+  "makecode_test.Gesture.liltright|block": "左",
+  "makecode_test.Gesture.shake|block": "是",
+  "makecode_test.Gesture.tiltleft|block": "发",
+  "makecode_test.Gesture.tiltup|block": "额",
+  "makecode_test.abc_1|block": "有",
+  "makecode_test.get1.A|block": "去",
+  "makecode_test.get1.B|block": "好",
+  "{id:category}Makecode_test": "了"
+}

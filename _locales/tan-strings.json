@@ -1,0 +1,12 @@
+{
+  "makecode_test.Gesture.facedown|block": "face down",
+  "makecode_test.Gesture.faceup|block": "face up",
+  "makecode_test.Gesture.liltright|block": "tilt right",
+  "makecode_test.Gesture.shake|block": "shake",
+  "makecode_test.Gesture.tiltleft|block": "tilt left",
+  "makecode_test.Gesture.tiltup|block": "tilt up",
+  "makecode_test.abc_1|block": "true",
+  "makecode_test.get1.A|block": "A",
+  "makecode_test.get1.B|block": "B",
+  "{id:category}Makecode_test": "Makecode_test"
+}
