@@ -1,6 +1,6 @@
 {
     "name": "tan",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -10,7 +10,9 @@
     "files": [
         "README.md",
         "main.blocks",
-        "main.ts"
+        "main.ts",
+        "_locales/zh/tan-strings.json",
+        "_locales/zh/tan-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"
