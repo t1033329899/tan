@@ -27,7 +27,7 @@ namespace makecode_test {
     
     }
 
-    //% block = "ddd Get3 = $abc_a + $abc_A"
+    //% block="ddd Get3 = $abc_a + $abc_A"
     //% abc_a.fieldEditor="gridpicker"
     //% abc_a.fieldOptions.columns=3
     //% abc_A.fieldEditor="gridpicker"
