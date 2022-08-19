@@ -1,5 +1,5 @@
 
-//% color=#8600FF weight=100 icon"\uf516"
+//% color=#8600FF weight=100 icon="\uf110"
 //% block="makecode_test" blockID="makecode_test"
 namespace makecode_test {
     
@@ -28,9 +28,10 @@ namespace makecode_test {
     }
 
     //% block = "abc_1 Get3 = $abc_a + $abc_A"
-    //% gesture.fieldEditor="gridpicker"
-    //% gesture.fieldOptions.width=220
-    //% gesture.fieldOptions.columns=3
+    //% abc_a.fieldEditor="gridpicker"
+    //% abc_a.fieldOptions.columns=3
+    //% abc_A.fieldEditor="gridpicker"
+    //% abc_A.fieldOptions.columns=2
     export function abc_1(abc_a: Gesture, abc_A: get1) : number{
         let Get3 = abc_a + abc_A
         return Get3
